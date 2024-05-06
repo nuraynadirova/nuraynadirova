@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nuray-nadirova-b097a129b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuray-nadirova-b097a129b" height="30" width="40" /></a>
-<a href="https://instagram.com/nadirovan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadirovan" height="30" width="40" /></a>
+<a href="https://instagram.com/naderovan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadirovan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
